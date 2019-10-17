@@ -6,7 +6,7 @@ It uses the TensorFlow Object Detection API as backend and the pre-trained model
 
 ### Requirements
 
-- Python >= 3.3
+- Anaconda | Python >= 3.6.5 
 - OpenCV == 3.4.3.18
 - Tensorflow == 1.14.0
 
